@@ -38,6 +38,7 @@ st.markdown(
         font-size: 25px;
         font-weight: bold;
         line-height: 30px;
+        text-align: center;
     }
     .st-emotion-cache-ysk9xe p {
         margin: 6px 15px;
