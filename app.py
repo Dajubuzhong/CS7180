@@ -27,8 +27,11 @@ if "user_input" not in st.session_state:
 st.markdown(
     """
     <style>
+    .st-emotion-cache-h4xjwg {
+        padding: 0;
+    }
     .st-emotion-cache-kgpedg {
-        padding: 20px 10px;
+        padding: 0;
     }
     .st-emotion-cache-1gwvy71 h2 {
         padding: 15px 10px 45px;
@@ -60,7 +63,7 @@ st.markdown(
     .st-emotion-cache-1jicfl2 {
         width: 100%;
         height: 100%;
-        padding: 50px 100px;
+        padding: 30px 100px;
     }
     h1 {
         padding: 20px 0;
